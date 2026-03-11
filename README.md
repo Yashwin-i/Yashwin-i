@@ -3,7 +3,7 @@
 I'm a 2nd-year Computer Science student at IIT Tirupati. I enjoy full-stack development and spend my free time exploring systems architecture, web security, and open-source projects. 
 
 ### 💻 What I'm working with
-* **Languages:** C/C++, Python, Bash, Web Technologies
+* **Languages:** C/C++, Java, Python, Bash, Web Technologies
 * **Tools & Infrastructure:** Docker, Linux (Ubuntu/WSL2), Git
 
 ### 🌱 Currently Exploring
