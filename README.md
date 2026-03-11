@@ -1,25 +1,19 @@
-# Hi there 👋, I'm Iskala Yashwin Sai
+# Hi, I'm Yashwin 👋
 
-**2nd-year CSE Undergrad @ IIT Tirupati | Cybersecurity & Open-Source Enthusiast**
+I'm a 2nd-year Computer Science student at IIT Tirupati. I enjoy full-stack development and spend my free time exploring systems architecture, web security, and open-source projects. 
 
-I am a backend developer and security enthusiast with a strong focus on system architecture, containerization, and threat intelligence. I am passionate about bridging the gap between theoretical vulnerability research and practical engineering.
+### 💻 What I'm working with
+* **Languages:** C/C++, Python, Bash, Web Technologies
+* **Tools & Infrastructure:** Docker, Linux (Ubuntu/WSL2), Git
 
-### 🔭 Currently Working On
-* **OWASP Honeypot Project:** Architecting high-interaction, discrete Docker personas (CVE lures) to capture advanced web application attacks and complex payloads.
-* **Personal Infrastructure:** Building a custom web portfolio from scratch to document my technical projects and creative work.
+### 🌱 Currently Exploring
+* Building a personal web portfolio from scratch to document my creative work.
+* Learning about container networking and threat intelligence.
+* Contributing to open-source projects.
 
-### 💻 Tech Stack & Tools
-* **Languages:** C/C++, Python, Bash
-* **Infrastructure:** Docker, Linux (Ubuntu/WSL2), Apache Tomcat
-* **Tools:** Git, GitHub Actions, VS Code
-
-### 🌱 Exploring & Learning
-* Advanced container networking and telemetry pipelines.
-* Security concepts and blockchain architecture. 
-
-### ⚡ Outside the Terminal
-When I am not writing code or orchestrating containers, you can usually find me:
-* 📸 Shooting photography (Canon R10)
+### ⚡ Off the screen
+When I am not coding, you can usually find me:
+* 📸 Shooting photography 
 * 🏸 Playing badminton
 * 🎬 Discussing cinema and history
 
